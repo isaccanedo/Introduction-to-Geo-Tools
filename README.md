@@ -6,7 +6,7 @@ Neste artigo, veremos os fundamentos da biblioteca Java de código aberto GeoToo
 
 Conforme o OGC desenvolve novos padrões, eles são implementados pelo GeoTools, o que o torna bastante útil para o trabalho geoespacial.
 
-2. Dependências
+# 2. Dependências
 Precisaremos adicionar as dependências do GeoTools ao nosso arquivo pom.xml. Como essas dependências não estão hospedadas no Maven Central, também precisamos declarar seus repositórios para que o Maven possa baixá-los:
 
 ```
